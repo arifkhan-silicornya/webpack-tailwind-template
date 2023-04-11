@@ -1,0 +1,11 @@
+tailwind CSS
+-----------
+===========
+npm init -y
+
+npm install -D tailwindcss postcss autoprefixer cssnano postcss-mixins postcss-nested postcss-preset-env postcss-reporter stylelint
+
+
+Webpack 
+=======
+npm i -D webpack webpack-cli
